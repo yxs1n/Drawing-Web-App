@@ -1,35 +1,37 @@
-# Project Title
+# Drawing Web App 🎨
 
-A short description of what the project does and who it’s for.  
-*(Example: A simple to-do list web app that lets users add, delete, and save tasks.)*
+A browser-based drawing application with multiple creative tools and customization options.  
+Users can sketch, paint, and design freely using various drawing modes, colors, and brush sizes.  
 
 ---
 
 ## 🚀 Features
-- List the main features clearly:
-  - Responsive design
-  - Add/remove tasks
-  - Local storage support
-  - Light/dark mode
+- **Drawing Tool** – freehand drawing with adjustable brush size.  
+- **Spray Paint Tool** – adds spray-paint style effects.  
+- **Eraser Tool** – remove mistakes easily.  
+- **Symmetry Tool** – mirror your drawings for symmetrical designs.  
+- **Straight Line Tool** – draw precise lines.  
+- **Laser Tool** – create glowing laser-style strokes.  
+- **Custom Colors** – pick from different color options.  
+- **Size Bar** – control brush/eraser thickness.  
 
 ---
 
 ## 🛠️ Built With
-- HTML  
-- CSS  
-- JavaScript  
-*(Add React, APIs, or other tools if used)*
+- HTML5 Canvas  
+- CSS3  
+- JavaScript (Vanilla JS)  
 
 ---
 
 ## 📸 Screenshots
-*(Insert screenshots or GIFs of your app in action)*  
+*(Insert images or GIFs of the app in action)*  
 
-![App Screenshot](screenshot.png)
+![Drawing App Screenshot](screenshot.png)  
 
 ---
 
 ## 📂 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/project-name.git
+   git clone https://github.com/yourusername/drawing-web-app.git
