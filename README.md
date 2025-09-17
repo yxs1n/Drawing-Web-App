@@ -34,4 +34,4 @@ Users can sketch, paint, and design freely using various drawing modes, colors, 
 ## 📂 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/drawing-web-app.git
+   git clone https://github.com/yxs1n/Drawing-Web-App.git
